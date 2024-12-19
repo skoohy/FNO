@@ -32,7 +32,7 @@ def get_config():
     training.batch_size = 16
     training.time_history = 20
     training.time_future = 20
-    training.epochs = 5 #30 * 2 * data.nt
+    training.epochs = 30 * 2 * data.nt
     training.seed = 1
 
     # Optimizer
