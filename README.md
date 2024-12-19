@@ -11,7 +11,7 @@
 
 ## Running the code 
 
-Each directory ```Burgers``` and ```KdV``` contain a ```notebook``` directory including a ```main.ipynb``` and ```results.ipynb``` file. The ```main.ipynb``` is an adaptation of the ```main.py``` file found in the same parent directory suitable for [Google Colab](https://colab.research.google.com/). To log our results we use [Weights & Biases](https://wandb.ai/), results can be found in the ```results.ipynb``` file. To use our code (outside of Google Colab) follow the next steps. 
+Each directory ```Burgers``` and ```KdV``` contain a ```notebook``` directory including a ```main.ipynb``` and ```results.ipynb``` file. The ```main.ipynb``` is an adaptation of the ```main.py``` file found in the same parent directory suitable for [Google Colab](https://colab.research.google.com/). To log our results we use [Weights & Biases](https://wandb.ai/), results can be found in the ```results.ipynb``` files. To run our code through the terminal follow the next steps. 
 
 Clone the repository: 
 
@@ -29,4 +29,4 @@ To perform a hyper-parameter sweep use (not applicable for KdV):
 
 ```python sweep.py --config=configs/defaults.py```
 
-[Google Drive link to datasets](https://drive.google.com/drive/folders/1Ai-yIE6tq2jVuobfPCK5T_UU8S07jVuS?usp=sharing)
+### [Google Drive link to datasets](https://drive.google.com/drive/folders/1Ai-yIE6tq2jVuobfPCK5T_UU8S07jVuS?usp=sharing)
