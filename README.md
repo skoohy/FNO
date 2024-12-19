@@ -29,4 +29,4 @@ To perform a hyper-parameter sweep use (not applicable for KdV):
 
 ```python sweep.py --config=configs/defaults.py```
 
-### [Google Drive link to datasets](https://drive.google.com/drive/folders/1Ai-yIE6tq2jVuobfPCK5T_UU8S07jVuS?usp=sharing)
+### [Google Drive link to datasets and project paper](https://drive.google.com/drive/folders/1Ai-yIE6tq2jVuobfPCK5T_UU8S07jVuS?usp=sharing)
