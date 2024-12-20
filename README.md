@@ -36,3 +36,5 @@ To perform a hyper-parameter sweep use (not applicable for KdV):
 ![Image 1](fig/burgers.png)
 
 ### KdV Example
+
+![Image 2](fig/kdv.png)
